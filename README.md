@@ -12,6 +12,8 @@ some notes
 
 ### 优化
 - [web前端优化之图片优化](https://juejin.im/post/59a7725b6fb9a02497170459)
+- [【前端性能】高性能滚动 scroll 及页面渲染优化](http://www.cnblogs.com/coco1s/p/5499469.html)
+- [浅谈throttle以及debounce的原理和实现](https://segmentfault.com/a/1190000010983733)
 
 ### 常用网站
 - [devices](https://material.io/devices/)
