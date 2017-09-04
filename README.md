@@ -9,3 +9,6 @@ some notes
 
 ### markdown
 - [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
+
+### 优化
+- [web前端优化之图片优化](https://juejin.im/post/59a7725b6fb9a02497170459)
