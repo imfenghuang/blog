@@ -6,3 +6,6 @@ some notes
 
 ### js
 - [深入理解javascript原型和闭包 - 王福朋](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
+
+### markdown
+- [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
