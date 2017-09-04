@@ -12,3 +12,7 @@ some notes
 
 ### 优化
 - [web前端优化之图片优化](https://juejin.im/post/59a7725b6fb9a02497170459)
+
+### 常用网站
+- [devices](https://material.io/devices/)
+- [csstriggers](https://csstriggers.com/)
