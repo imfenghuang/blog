@@ -1,5 +1,6 @@
 # note
-**遇到的一些bug** -> [bug.md](https://github.com/imfenghuang/note/blob/master/bug.md)
+- [iOS javascript 日期格式问题](https://github.com/imfenghuang/note/issues/1)
+- [安卓机 URL.createObjectUrl(file) 问题](https://github.com/imfenghuang/note/issues/2)
 
 some notes
 
@@ -20,3 +21,4 @@ some notes
 ### 常用网站
 - [devices](https://material.io/devices/)
 - [csstriggers](https://csstriggers.com/)
+- [devdocs.io](https://devdocs.io)
