@@ -1,5 +1,5 @@
 # note
-**遇到的一些bug** -> [bug.md](https://github.com/imfenghuang/note/blob/master/bug.md
+**遇到的一些bug** -> [bug.md](https://github.com/imfenghuang/note/blob/master/bug.md)
 
 some notes
 
