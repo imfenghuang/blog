@@ -23,4 +23,3 @@ some notes
 - [devices](https://material.io/devices/)
 - [csstriggers](https://csstriggers.com/)
 - [devdocs.io](https://devdocs.io)
-iOS 8 touch事件回调参数event对象相同问题
