@@ -1,10 +1,10 @@
-# note
+# 笔记
 - [Mac Weex 安装记录](https://github.com/imfenghuang/note/issues/4)
 - [iOS 8 touch事件回调参数event对象相同问题](https://github.com/imfenghuang/note/issues/3)
 - [安卓机 URL.createObjectUrl(file) 问题](https://github.com/imfenghuang/note/issues/2)
 - [iOS javascript 日期格式问题](https://github.com/imfenghuang/note/issues/1)
 
-some notes
+# 常用
 
 ### zepto 
 - [zepto源码学习](https://github.com/yeyuqiudeng/reading-zepto/blob/master/src/%E8%AF%BBZepto%E6%BA%90%E7%A0%81%E4%B9%8B%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md) 
