@@ -24,3 +24,5 @@
 - [devices](https://material.io/devices/)
 - [csstriggers](https://csstriggers.com/)
 - [devdocs.io](https://devdocs.io)
+- [深入浅出webpack](http://webpack.wuhaolin.cn/)
+- [webpack中文网](https://doc.webpack-china.org/)
