@@ -1,4 +1,5 @@
 # 笔记
+- [weex 踩坑记录](https://github.com/imfenghuang/blog/issues/6)
 - [Mac Weex 安装记录](https://github.com/imfenghuang/note/issues/4)
 - [iOS 8 touch事件回调参数event对象相同问题](https://github.com/imfenghuang/note/issues/3)
 - [安卓机 URL.createObjectUrl(file) 问题](https://github.com/imfenghuang/note/issues/2)
