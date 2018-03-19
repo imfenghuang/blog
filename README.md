@@ -1,4 +1,5 @@
 # 笔记
+- [webp 的一些事儿](https://github.com/imfenghuang/blog/issues/8)
 - [SVG 入门](https://github.com/imfenghuang/blog/issues/7)
 - [weex 踩坑记录](https://github.com/imfenghuang/blog/issues/6)
 - [Mac Weex 安装记录](https://github.com/imfenghuang/note/issues/4)
