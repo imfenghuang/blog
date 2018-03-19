@@ -3,7 +3,7 @@
 - [webp 的一些事儿](https://github.com/imfenghuang/blog/issues/8)
 - [SVG 入门](https://github.com/imfenghuang/blog/issues/7)
 - [weex 踩坑记录](https://github.com/imfenghuang/blog/issues/6)
-- [Mac Weex 安装记录](https://github.com/imfenghuang/note/issues/4)
+- [Mac weex 安装记录](https://github.com/imfenghuang/note/issues/4)
 - [iOS 8 touch事件回调参数event对象相同问题](https://github.com/imfenghuang/note/issues/3)
 - [安卓机 URL.createObjectUrl(file) 问题](https://github.com/imfenghuang/note/issues/2)
 - [iOS javascript 日期格式问题](https://github.com/imfenghuang/note/issues/1)
