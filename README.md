@@ -1,4 +1,5 @@
 # 笔记
+- [OSC 源创会分享记录](https://github.com/imfenghuang/blog/issues/11)
 - [Navigation Timing API & Resource Timing API 学习](https://github.com/imfenghuang/blog/issues/9)
 - [webp 的一些事儿](https://github.com/imfenghuang/blog/issues/8)
 - [SVG 入门](https://github.com/imfenghuang/blog/issues/7)
