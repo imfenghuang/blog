@@ -33,3 +33,4 @@
 - [devdocs.io](https://devdocs.io)
 - [深入浅出webpack](http://webpack.wuhaolin.cn/)
 - [webpack中文网](https://doc.webpack-china.org/)
+- [X5内核调试](http://debugx5.qq.com/) PS：清安卓微信浏览器缓存~
