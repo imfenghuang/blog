@@ -19,6 +19,9 @@
 ### js
 - [深入理解javascript原型和闭包 - 王福朋](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [Exploring ES6](http://exploringjs.com/es6/index.html)
+- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html)
+- [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 
 ### markdown
 - [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
