@@ -4,7 +4,7 @@
 - [Navigation Timing API & Resource Timing API 学习](https://github.com/imfenghuang/blog/issues/9)
 - [webp 的一些事儿](https://github.com/imfenghuang/blog/issues/8)
 - [SVG 入门](https://github.com/imfenghuang/blog/issues/7)
-- [weex 踩坑记录](https://github.com/imfenghuang/blog/issues/6)
+- [weex 踩坑记录](https://github.com/imfenghuang/blog/issues/6) (update: 2018-07-09)
 - [-webkit-box-orient: vertical; 构建后丢失问题](https://github.com/imfenghuang/blog/issues/5)
 - [Mac weex 安装记录](https://github.com/imfenghuang/note/issues/4)
 - [iOS 8 touch事件回调参数event对象相同问题](https://github.com/imfenghuang/note/issues/3)
