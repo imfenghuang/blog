@@ -44,3 +44,6 @@
 ### 无版权图片网站
 - [pixabay.com](https://pixabay.com)
 - [unsplash](https://unsplash.com/)
+
+### 其他网站
+- [bigjpg.com](bigjpg.com)放大图片
