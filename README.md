@@ -41,10 +41,11 @@
 - [linux命令学习](http://wangchujiang.com/linux-command/)
 - [carbon](https://dawnlabs.io/carbon) 生成代码分享截图
 - [排序效果可视化](https://visualgo.net/zh/sorting)
+- [canvasapi](https://www.canvasapi.cn/)
 
 ### 无版权图片网站
 - [pixabay.com](https://pixabay.com)
 - [unsplash](https://unsplash.com/)
 
 ### 其他网站
-- [bigjpg.com](bigjpg.com)放大图片
+- [bigjpg.com](bigjpg.com) 放大图片
