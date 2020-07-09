@@ -14,6 +14,8 @@
 - [iOS javascript 日期格式问题](https://github.com/imfenghuang/note/issues/1)
 
 # 常用
+### 综合
+- [web.dev](https://web.dev/)
 
 ### zepto 
 - [zepto源码学习](https://github.com/yeyuqiudeng/reading-zepto/blob/master/src/%E8%AF%BBZepto%E6%BA%90%E7%A0%81%E4%B9%8B%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md) 
