@@ -1,4 +1,5 @@
 # 笔记
+- [python 开发笔记](https://github.com/imfenghuang/blog/issues/36)
 - [node 开发自定义命令](https://github.com/imfenghuang/blog/issues/28)
 - [抖音无水印视频一键下载](https://github.com/imfenghuang/blog/issues/22)
 - [CSS世界 笔记](https://github.com/imfenghuang/blog/issues/16)
@@ -20,12 +21,13 @@
 ### zepto 
 - [zepto源码学习](https://github.com/yeyuqiudeng/reading-zepto/blob/master/src/%E8%AF%BBZepto%E6%BA%90%E7%A0%81%E4%B9%8B%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.md) 
 
-### js
+### 前端
 - [深入理解javascript原型和闭包 - 王福朋](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [Exploring ES6](http://exploringjs.com/es6/index.html)
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
+- [前端技术文章](https://fed.chanceyu.com/)
 
 ### markdown
 - [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
