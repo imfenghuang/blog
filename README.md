@@ -50,6 +50,8 @@
 - [canvasapi](https://www.canvasapi.cn/)
 - [chokcoco](https://chokcoco.github.io/)
 - [regex101](https://regex101.com/)
+- [jser.dev](https://jser.dev/)
+- [jser.pro](https://jser.pro/)
 
 ### 无版权图片网站
 - [pixabay.com](https://pixabay.com)
