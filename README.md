@@ -53,6 +53,7 @@
 - [jser.dev](https://jser.dev/) react
 - [jser.pro](https://jser.pro/) react
 - [overreacted.io](https://overreacted.io/) react
+- [picsum.photos](https://picsum.photos/) random image
 
 ### 无版权图片网站
 - [pixabay.com](https://pixabay.com)
