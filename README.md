@@ -28,6 +28,7 @@
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 - [前端技术文章](https://fed.chanceyu.com/)
+- [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 
 ### markdown
 - [关于 Markdown 的一些奇技淫巧](https://github.com/mzlogin/mzlogin.github.io/blob/master/_posts/2017-09-01-markdown-odd-skills.md)
