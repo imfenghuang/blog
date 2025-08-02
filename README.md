@@ -64,3 +64,6 @@
 
 ### 其他网站
 - [bigjpg.com](bigjpg.com) 放大图片
+
+### Mac App
+- [rectangle](https://rectangleapp.com/)
